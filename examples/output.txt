@@ -1,0 +1,22 @@
+Epoch 1/20Loss: 2.5501
+Epoch 2/20Loss: 1.6080
+Epoch 3/20Loss: 1.1400
+Epoch 4/20Loss: 0.9076
+Epoch 5/20Loss: 0.7544
+Epoch 6/20Loss: 0.7009
+Epoch 7/20Loss: 0.6269
+Epoch 8/20Loss: 0.6103
+Epoch 9/20Loss: 0.5855
+Epoch 10/20Loss: 0.5594
+Epoch 11/20Loss: 0.5109
+Epoch 12/20Loss: 0.4728
+Epoch 13/20Loss: 0.4327
+Epoch 14/20Loss: 0.4088
+Epoch 15/20Loss: 0.3891
+Epoch 16/20Loss: 0.3481
+Epoch 17/20Loss: 0.3236
+Epoch 18/20Loss: 0.3154
+Epoch 19/20Loss: 0.2980
+Epoch 20/20Loss: 0.2988
+Generated IDs: tensor([[ 2, 14,  4,  5, 15,  3,  2, 14]])
+Generated text: the cat is small the
